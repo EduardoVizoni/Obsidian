@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "89fca62ab3174ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25767aef599a4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe40ad89ba9195e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model-View-Controller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44cec86c3b18add3",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e339070f49a708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2964583a1854bd65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8012c699d19eacd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94515bb5bb00de1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df31d61031574a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e5683f4519d871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d9478797a2193b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Model-View-Controller"
+            }
+          },
+          {
+            "id": "5f266707abe2d622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Model-View-Controller"
+            }
+          },
+          {
+            "id": "62b436264c708337",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6f11aab398f7335",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Model-View-Controller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ffe40ad89ba9195e",
+  "lastOpenFiles": [
+    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
+    "Learning/Software Architecture/MVC/Model-View-Controller.md",
+    "Learning/Software Architecture/SOLID/Princípios SOLID.md",
+    "Learning/Software Architecture/POO/Programação Orientada a Objetos (POO).md",
+    "SOLID.md",
+    "Welcome.md",
+    "create a link.md",
+    "Learning/Software Architecture/SOA",
+    "Learning/Software Architecture/MVC",
+    "Learning/Software Architecture/SOLID",
+    "Learning/Software Architecture/POO",
+    "Learning/Software Architecture/OOP.md",
+    "Learning/Software Architecture",
+    "Learning"
+  ]
+}
