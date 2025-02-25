@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "file": "Learning/Frameworks/Next.Js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model-View-Controller"
+              "title": "Next.Js"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "file": "Learning/Frameworks/Next.Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Model-View-Controller"
+              "title": "Backlinks for Next.Js"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "file": "Learning/Frameworks/Next.Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Model-View-Controller"
+              "title": "Outgoing links from Next.Js"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Software Architecture/MVC/Model-View-Controller.md",
+                "file": "Learning/Frameworks/Next.Js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Model-View-Controller"
+              "title": "Outline of Next.Js"
             }
           }
         ]
@@ -170,8 +170,18 @@
   },
   "active": "ffe40ad89ba9195e",
   "lastOpenFiles": [
-    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
+    "Learning/Languages/Java.md",
+    "Learning/Languages/TypeScript.md",
+    "Learning/Languages/JavaScript.md",
+    "Learning/Frameworks/Angular.md",
+    "Learning/Frameworks/Next.Js.md",
+    "Learning/Frameworks/React.md",
+    "Learning/Frameworks/Spring.md",
+    "Untitled",
     "Learning/Software Architecture/MVC/Model-View-Controller.md",
+    "Learning/Languages",
+    "Learning/Frameworks",
+    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
     "Learning/Software Architecture/SOLID/Princípios SOLID.md",
     "Learning/Software Architecture/POO/Programação Orientada a Objetos (POO).md",
     "SOLID.md",
