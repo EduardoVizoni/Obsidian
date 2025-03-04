@@ -11,14 +11,10 @@
             "id": "ffe40ad89ba9195e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Frameworks/Next.Js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next.Js"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Frameworks/Next.Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Next.Js"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Frameworks/Next.Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Next.Js"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Frameworks/Next.Js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Next.Js"
+              "title": "Outline"
             }
           }
         ]
@@ -170,29 +163,37 @@
   },
   "active": "ffe40ad89ba9195e",
   "lastOpenFiles": [
+    "Operating Systems/Windows/Windows.md",
+    "Operating Systems/Linux/Linux.md",
+    "Operating Systems/MacOS/Mac.md",
+    "Operating Systems/Linux/Linux Mint",
+    "Operating Systems/MacOS",
+    "Operating Systems/Windows",
+    "Operating Systems/Linux",
+    "Learning/Software Architecture/SOLID/Princípios SOLID.md",
+    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
+    "Development",
+    "Languages/France.md",
+    "Untitled.md",
+    "Languages/Japanese.md",
+    "Languages/English.md",
+    "Languages",
+    "Operating Systems",
+    "Learning/Software Architecture/MVC/Model-View-Controller.md",
+    "Learning/Full-Stack",
+    "Learning/Full-Stack/Back-end",
+    "Learning/Full-Stack/Front-end",
+    "Learning/Software Architecture/POO/Programação Orientada a Objetos (POO).md",
+    "Learning/Languages/JavaScript.md",
+    "Learning/Frameworks/Next.Js.md",
     "Learning/Languages/Java.md",
     "Learning/Languages/TypeScript.md",
-    "Learning/Languages/JavaScript.md",
     "Learning/Frameworks/Angular.md",
-    "Learning/Frameworks/Next.Js.md",
     "Learning/Frameworks/React.md",
     "Learning/Frameworks/Spring.md",
-    "Untitled",
-    "Learning/Software Architecture/MVC/Model-View-Controller.md",
-    "Learning/Languages",
-    "Learning/Frameworks",
-    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
-    "Learning/Software Architecture/SOLID/Princípios SOLID.md",
-    "Learning/Software Architecture/POO/Programação Orientada a Objetos (POO).md",
     "SOLID.md",
     "Welcome.md",
     "create a link.md",
-    "Learning/Software Architecture/SOA",
-    "Learning/Software Architecture/MVC",
-    "Learning/Software Architecture/SOLID",
-    "Learning/Software Architecture/POO",
-    "Learning/Software Architecture/OOP.md",
-    "Learning/Software Architecture",
-    "Learning"
+    "Learning/Software Architecture/OOP.md"
   ]
 }
