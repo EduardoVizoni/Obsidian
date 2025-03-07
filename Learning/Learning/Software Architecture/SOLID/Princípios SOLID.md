@@ -31,6 +31,8 @@ O **Princípio da Responsabilidade Única** afirma que uma classe deve ter **uma
 
 Aplicando o SRP, conseguimos separar as funcionalidades de uma aplicação em classes distintas, cada uma com um objetivo claro e focado. Assim, quando for necessário modificar ou adicionar novas funcionalidades, a mudança será limitada à classe correspondente, sem afetar outras partes do sistema.
 
+**Exemplo**: Se você tem uma classe `Funcionario`, ela não deve ter responsabilidades sobre a geração de relatórios e a gestão de pagamentos, por exemplo. Cada uma dessas responsabilidades deveria ser em uma classe separada.
+
 ---
 
 ## **Princípio Aberto/Fechado (OCP)**
@@ -39,6 +41,8 @@ O **Princípio Aberto/Fechado** diz que **as classes devem ser abertas para exte
 
 Este princípio incentiva a utilização de herança, interfaces e polimorfismo para adicionar novas funcionalidades, sem precisar modificar o comportamento já implementado. Com isso, o sistema se torna mais flexível e seguro, pois mudanças em uma classe não afetam outras partes do código.
 
+**Exemplo:** Se você tem uma classe que calcula o imposto de um produto, você deve conseguir estender essa classe para **novos tipos de impostos** sem mudar a classe original. Isso é possível usando **herança** ou **interfaces**.
+
 ---
 
 ## **Princípio da Substituição de Liskov (LSP)**
@@ -46,6 +50,8 @@ Este princípio incentiva a utilização de herança, interfaces e polimorfismo 
 O **Princípio da Substituição de Liskov** afirma que as **subclasses devem ser substituíveis pelas suas superclasses** sem afetar o funcionamento correto do sistema. Em outras palavras, uma instância de uma classe derivada deve poder ser usada no lugar da sua classe base sem alterar o comportamento esperado.
 
 Esse princípio garante que a hierarquia de herança esteja bem definida e que o comportamento das subclasses seja coerente com o comportamento das superclasses. Isso é fundamental para garantir que o código seja reutilizável e que o sistema funcione corretamente ao substituir uma classe por uma de sua hierarquia.
+
+O princípio diz que **subclasses devem ser substituíveis por suas classes base sem alterar o comportamento esperado**. Em outras palavras, se você tem uma classe `Animal` e uma subclasse `Cachorro`, você deve ser capaz de **usar um `Cachorro` onde um `Animal` é esperado**, e o comportamento do programa não deve ser alterado.
 
 ---
 
