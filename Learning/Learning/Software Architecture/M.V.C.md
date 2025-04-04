@@ -1,11 +1,4 @@
-## Índice 
-1. [Visão Geral](#visão-geral-mvc) 
-2. [Model](#model) 
-3. [View](#view) 
-4. [Controller](#controller) 
-5. [Benefícios do MVC](#benefícios-do-mvc) 
-6. [Exemplo de Fluxo MVC](#exemplo-de-fluxo-mvc)
-7.  [Assuntos Correlacionados](#assuntos-correlacionados-mvc)
+**Model-View-Controller**
 
 ---
 
@@ -68,5 +61,5 @@ Esse fluxo permite uma interação eficiente entre a interface e a lógica de ne
 ## **Assuntos Correlacionados** 
 
 - [POO](#poo): MVC pode ser implementado utilizando POO, organizando o código de forma modular. 
-- [[Princípios SOLID]]: Aplicar os princípios SOLID no MVC melhora a estrutura e a manutenibilidade do sistema. 
-- [[Arquitetura Orientada a Serviços]]: O MVC pode ser utilizado dentro de uma arquitetura orientada a serviços para promover a separação de responsabilidades.
+- [[S.O.L.I.D Principle]]: Aplicar os princípios SOLID no MVC melhora a estrutura e a manutenibilidade do sistema. 
+- [[S.O.A]]: O MVC pode ser utilizado dentro de uma arquitetura orientada a serviços para promover a separação de responsabilidades.

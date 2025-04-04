@@ -11,10 +11,14 @@
             "id": "ffe40ad89ba9195e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Software Architecture/S.O.A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S.O.A"
             }
           }
         ]
@@ -163,15 +167,20 @@
   },
   "active": "ffe40ad89ba9195e",
   "lastOpenFiles": [
-    "Operating Systems/Windows/Windows.md",
+    "Learning/Software Architecture/S.O.L.I.D Principle.md",
+    "Learning/Software Architecture/Software Architecture.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Learning/Software Architecture/S.O.A.md",
+    "Learning/Software Architecture/M.V.C.md",
+    "Learning/Software Architecture/O.O.P.md",
     "Operating Systems/Linux/Linux.md",
+    "Operating Systems/Windows/Windows.md",
     "Operating Systems/MacOS/Mac.md",
     "Operating Systems/Linux/Linux Mint",
     "Operating Systems/MacOS",
     "Operating Systems/Windows",
     "Operating Systems/Linux",
-    "Learning/Software Architecture/SOLID/Princípios SOLID.md",
-    "Learning/Software Architecture/SOA/Arquitetura Orientada a Serviços.md",
     "Development",
     "Languages/France.md",
     "Untitled.md",
@@ -179,11 +188,9 @@
     "Languages/English.md",
     "Languages",
     "Operating Systems",
-    "Learning/Software Architecture/MVC/Model-View-Controller.md",
     "Learning/Full-Stack",
     "Learning/Full-Stack/Back-end",
     "Learning/Full-Stack/Front-end",
-    "Learning/Software Architecture/POO/Programação Orientada a Objetos (POO).md",
     "Learning/Languages/JavaScript.md",
     "Learning/Frameworks/Next.Js.md",
     "Learning/Languages/Java.md",
@@ -193,7 +200,6 @@
     "Learning/Frameworks/Spring.md",
     "SOLID.md",
     "Welcome.md",
-    "create a link.md",
-    "Learning/Software Architecture/OOP.md"
+    "create a link.md"
   ]
 }

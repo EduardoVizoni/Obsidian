@@ -1,13 +1,4 @@
-## Índice 
-1. [Introdução](#introdução-solid) 
-2. [Princípios](#princípios-solid) 
-	- [SRP (Single Responsibility Principle)](#srp-single-responsibility-principle) 
-	- [OCP (Open/Closed Principle)](#ocp-openclosed-principle) 
-	- [LSP (Liskov Substitution Principle)](#lsp-liskov-substitution-principle) 
-	- [ISP (Interface Segregation Principle)](#isp-interface-segregation-principle) 
-	- [DIP (Dependency Inversion Principle)](#dip-dependency-inversion-principle) 
-3. [Vantagens](#vantagens-solid) 
-4. [Assuntos Correlacionados](#assuntos-correlacionados-solid)11
+**SRP, OCP, LSP, ISP, DIP**
 
 ---
 
@@ -77,6 +68,6 @@ Este princípio é essencial para reduzir o acoplamento entre componentes e torn
 ---
 ## **Assuntos Correlacionados** 
 
-- [[Programação Orientada a Objetos (POO)]]: A aplicação dos princípios SOLID é fundamental para o design orientado a objetos. 
-- [[Model-View-Controller]]: SOLID ajuda na criação de sistemas mais modulares, o que é importante para a implementação do padrão MVC. 
-- [[Arquitetura Orientada a Serviços]]: Aplicar os princípios SOLID em serviços ajuda a criar sistemas mais reutilizáveis e robustos.
+- [[O.O.P]]: A aplicação dos princípios SOLID é fundamental para o design orientado a objetos. 
+- [[M.V.C]]: SOLID ajuda na criação de sistemas mais modulares, o que é importante para a implementação do padrão MVC. 
+- [[S.O.A]]: Aplicar os princípios SOLID em serviços ajuda a criar sistemas mais reutilizáveis e robustos.

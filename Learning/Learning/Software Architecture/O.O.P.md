@@ -1,12 +1,4 @@
-## Índice  
-1. [Introdução](#introdução-poo)  
-2. [Princípios](#princípios-poo)  
-   - [Encapsulamento](#encapsulamento)  
-   - [Herança](#herança)  
-   - [Polimorfismo](#polimorfismo)  
-   - [Abstração](#abstração)  
-3. [Vantagens](#vantagens-poo)  
-4. [Assuntos Correlacionados](#assuntos-correlacionados)
+**Oriented-Object Programming**
 
 ---
 
@@ -63,6 +55,6 @@ A **abstração** é o processo de esconder a complexidade dos detalhes e mostra
 
 ## **Assuntos Correlacionados**
 
-- [[Princípios SOLID]]: Os princípios SOLID são fundamentais para a boa prática de design de software orientado a objetos. 
-- [[Model-View-Controller]]: O padrão MVC pode ser implementado utilizando POO, promovendo uma boa separação de responsabilidades. 
-- [[Arquitetura Orientada a Serviços]]: A arquitetura orientada a serviços(SOA) pode ser construída utilizando princípios de POO para criar serviços reutilizáveis e modulares.  
+- [[S.O.L.I.D Principle]]: Os princípios SOLID são fundamentais para a boa prática de design de software orientado a objetos. 
+- [[M.V.C]]: O padrão MVC pode ser implementado utilizando POO, promovendo uma boa separação de responsabilidades. 
+- [[S.O.A]]: A arquitetura orientada a serviços(SOA) pode ser construída utilizando princípios de POO para criar serviços reutilizáveis e modulares.  

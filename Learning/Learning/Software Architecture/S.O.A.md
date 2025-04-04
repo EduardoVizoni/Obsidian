@@ -1,18 +1,8 @@
-## Índice
-1. [Visão Geral](#visão-geral-soa)
-2. [Princípios do SOA](#princípios-do-soa)
-3. [Características do SOA](#características-do-soa)
-4. [Vantagens do SOA](#vantagens-do-soa)
-5. [Desvantagens do SOA](#desvantagens-do-soa)
-6. [Exemplo de Fluxo de um Sistema SOA](#exemplo-de-fluxo-de-um-sistema-soa)
-7. [Assuntos Correlacionados](#assuntos-correlacionados-soa)
+**Service-Oriented Architecture**
 
 ---
 
-## Visão Geral
-A **Arquitetura Orientada a Serviços (SOA)** é um estilo de arquitetura de software que organiza as funcionalidades de um sistema em **serviços independentes** que podem ser acessados por outras partes do sistema ou por sistemas externos. Cada serviço é projetado para realizar uma tarefa específica e pode ser reutilizado por diferentes partes do sistema.
-
-Em uma arquitetura SOA, os serviços comunicam-se por meio de protocolos padronizados, como HTTP, SOAP ou REST, e geralmente são independentes do ambiente em que estão implementados, permitindo flexibilidade e escalabilidade. A principal vantagem do SOA é permitir que diferentes aplicações se integrem de maneira eficiente, promovendo a reutilização de código e a modularidade.
+If you bring service-oriented architecture (SOA) up in a conversation, there’s a good chance someone will tell you that sounds a great idea
 
 ---
 
@@ -79,6 +69,3 @@ Em uma arquitetura SOA, os serviços comunicam-se por meio de protocolos padroni
 ---
 
 ## **Assuntos Correlacionados** 
-- [[Programação Orientada a Objetos (POO)]]: Princípios de POO são usados para criar serviços modulares e reutilizáveis. 
-- [[Princípios SOLID]]: Os princípios SOLID ajudam na criação de serviços com boa coesão e baixo acoplamento. 
-- [[Model-View-Controller]]: SOA pode ser implementada utilizando o padrão MVC, promovendo a separação de responsabilidades em serviços.
