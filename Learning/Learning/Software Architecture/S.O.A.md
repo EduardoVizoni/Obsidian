@@ -2,7 +2,7 @@
 
 ---
 
-If you bring service-oriented architecture (SOA) up in a conversation, there’s a good chance someone will tell you that sounds a great idea
+If you bring service-oriented architecture (SOA) up in a conversation, there’s a good chance someone will tell you that sounds a great idea. SOA is a way to design software systems by breaking them into **independent services** that communicate over a network. By using a solid approach within [[Software Architecture]], chopping the giant monolith program, transforming a masive system into a huge amount of services
 
 ---
 
