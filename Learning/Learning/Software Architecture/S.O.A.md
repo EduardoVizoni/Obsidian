@@ -4,68 +4,33 @@
 
 If you bring service-oriented architecture (SOA) up in a conversation, there’s a good chance someone will tell you that sounds a great idea. SOA is a way to design software systems by breaking them into **independent services** that communicate over a network. By using a solid approach within [[Software Architecture]], chopping the giant monolith program, transforming a masive system into a huge amount of services
 
----
-
-## Princípios do SOA
-
-1. **Desacoplamento**: Each service must be independent, com interfaces bem definidas, de modo que mudanças em um serviço não afetem os outros. Isso facilita a manutenção e evolução dos sistemas.
-   
-2. **Interoperabilidade**: Os serviços devem ser capazes de se comunicar entre si, independentemente da tecnologia ou linguagem de programação utilizada. O SOA promove o uso de padrões de comunicação abertos como REST, SOAP, etc.
-
-3. **Abstração**: A complexidade dos serviços internos deve ser escondida, expondo apenas uma interface simples e clara para quem vai utilizá-los.
-
-4. **Reusabilidade**: Os serviços devem ser projetados para serem reutilizados por diferentes componentes ou sistemas, reduzindo a redundância e aumentando a eficiência do desenvolvimento.
-
-5. **Escalabilidade**: A arquitetura deve ser projetada de maneira que seja possível adicionar novos serviços ou instâncias de serviços para lidar com o aumento de carga sem afetar a performance geral.
+Service-Oriented Architecture (SOA) is a software design approach where services are provided to other components via network(typically via web protocols like HTTP, SOAP, or REST). These services are self-contained, modular business functions that can be reused across different systems.
 
 ---
+# Key Characteristics of SOA
 
-## Características do SOA
-
-1. **Serviços Autônomos**: Os serviços em SOA são entidades independentes que podem ser desenvolvidas, implementadas e atualizadas separadamente. Cada serviço é responsável por um único processo de negócios e pode ser modificado sem afetar os outros serviços.
-
-2. **Composição de Serviços**: Em vez de um sistema monolítico, em SOA os serviços podem ser compostos para criar fluxos de trabalho complexos. Isso aumenta a flexibilidade e permite a reutilização de serviços existentes.
-
-3. **Interação via Mensagens**: A comunicação entre os serviços é feita via mensagens, que podem ser simples ou complexas. O uso de padrões como SOAP ou REST facilita essa comunicação de forma eficiente e segura.
-
-4. **Transparência**: Os detalhes de implementação dos serviços não precisam ser conhecidos pelos consumidores de serviços. A abstração de serviços permite que os desenvolvedores interajam com a arquitetura de maneira mais eficiente.
+1. **Service Reusability**: Services are designed to be reused in different contexts
+    
+2. **Interoperability**: Services can communicate across different platforms and languages
+    
+3. **Loose Coupling**: Services maintain relationships that minimize dependencies
+    
+4. **Abstraction**: Service implementations are hidden from consumers
+    
+5. **Composability**: Services can be assembled into higher-level business processes
+    
+6. **Autonomy**: Services have control over the logic they encapsulate
+    
+7. **Discoverability**: Services can be discovered via a registry (like UDDI)
 
 ---
 
-## Vantagens do SOA
+## SOA vs. Microservices
 
-1. **Modularidade**: A separação dos serviços em unidades independentes torna o sistema mais modular, permitindo a evolução e manutenção de forma isolada, sem afetar outras partes do sistema.
+While **Microservices** is an evolution of SOA, key differences include:
 
-2. **Reutilização de Serviços**: Serviços bem projetados podem ser reutilizados em diferentes partes do sistema ou até mesmo em diferentes sistemas, reduzindo o esforço de desenvolvimento e evitando duplicação de funcionalidades.
-
-3. **Escalabilidade e Flexibilidade**: A arquitetura SOA permite que os sistemas sejam facilmente escalados, uma vez que novos serviços podem ser adicionados ou instâncias adicionais de serviços existentes podem ser implantadas para lidar com o aumento de carga.
-
-4. **Integração Facilitada**: Como os serviços são projetados para se comunicar via protocolos padronizados, integrar diferentes sistemas e plataformas se torna mais fácil e eficiente.
-
-5. **Desacoplamento**: A arquitetura permite que mudanças em um serviço não afetem os outros serviços, tornando o sistema mais robusto e flexível.
-
----
-
-## Desvantagens do SOA
-
-1. **Complexidade**: Implementar e gerenciar uma arquitetura SOA pode ser complexo, especialmente em grandes sistemas com muitos serviços. A gestão de dependências entre os serviços pode ser desafiadora.
-
-2. **Custo de Implementação**: A criação e manutenção de serviços autônomos podem exigir mais tempo e recursos iniciais de desenvolvimento, o que pode aumentar o custo inicial da arquitetura.
-
-3. **Desempenho**: A comunicação entre os serviços via rede pode adicionar overhead, o que pode afetar a performance, especialmente se a infraestrutura de rede não for adequada ou se os serviços se comunicarem de maneira ineficiente.
-
-4. **Segurança**: A segurança deve ser cuidadosamente gerida em uma arquitetura SOA, pois cada serviço pode ser um ponto de vulnerabilidade. A implementação de medidas de segurança em múltiplos serviços pode aumentar a complexidade do sistema.
-
----
-
-## Exemplo de Fluxo de um Sistema SOA
-
-1. Um **usuário** faz uma requisição em um **front-end** de um sistema (por exemplo, acessando uma página da web).
-2. O **front-end** envia a requisição para um **serviço de autenticação** (um serviço independente que valida a identidade do usuário).
-3. O **serviço de autenticação** retorna os dados necessários ou uma resposta de erro.
-4. Com a autenticação bem-sucedida, o **front-end** então faz requisições para outros serviços, como um **serviço de dados** ou um **serviço de processamento**.
-5. Cada serviço responde com os dados necessários, permitindo que o **front-end** apresente ao usuário as informações finais, sem que o sistema precise conhecer os detalhes de cada serviço.
-
----
-
-## **Assuntos Correlacionados** 
+- **SOA** often uses an **Enterprise Service Bus (ESB)** for communication.
+    
+- **Microservices** prefer **lightweight protocols (REST/gRPC)** and **API Gateways**.
+    
+- **SOA** services are larger (coarse-grained); **Microservices** are smaller (fine-grained).
