@@ -4,7 +4,7 @@
 
 If you bring service-oriented architecture (SOA) up in a conversation, there’s a good chance someone will tell you that sounds a great idea. SOA is a way to design software systems by breaking them into **independent services** that communicate over a network. By using a solid approach within [[Software Architecture]], chopping the giant monolith program, transforming a masive system into a huge amount of services
 
-Service-Oriented Architecture (SOA) is a software design approach where services are provided to other components via network(typically via web protocols like HTTP, SOAP, or REST). These services are self-contained, modular business functions that can be reused across different systems.
+Service-Oriented Architecture (SOA) is a software organize approach where services are provided to other components via network(typically via web protocols like HTTP, SOAP, or REST). These services are self-contained, modular business functions that can be reused across different systems.
 
 ---
 # Key Characteristics of SOA

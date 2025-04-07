@@ -23,7 +23,7 @@ O **Princípio da Responsabilidade Única** afirma que uma classe deve ter **uma
 Aplicando o SRP, conseguimos separar as funcionalidades de uma aplicação em classes distintas, cada uma com um objetivo claro e focado. Assim, quando for necessário modificar ou adicionar novas funcionalidades, a mudança será limitada à classe correspondente, sem afetar outras partes do sistema.
 
 **Exemplo**: Se você tem uma classe `Funcionario`, ela não deve ter responsabilidades sobre a geração de relatórios e a gestão de pagamentos, por exemplo. Cada uma dessas responsabilidades deveria ser em uma classe separada.
-![[Pasted image 20250307143433.png]]
+
 
 ---
 
@@ -34,7 +34,7 @@ O **Princípio Aberto/Fechado** diz que **as classes devem ser abertas para exte
 Este princípio incentiva a utilização de herança, interfaces e polimorfismo para adicionar novas funcionalidades, sem precisar modificar o comportamento já implementado. Com isso, o sistema se torna mais flexível e seguro, pois mudanças em uma classe não afetam outras partes do código.
 
 **Exemplo:** Se você tem uma classe que calcula o imposto de um produto, você deve conseguir estender essa classe para **novos tipos de impostos** sem mudar a classe original. Isso é possível usando **herança** ou **interfaces**.
-![[Pasted image 20250307143424.png]]
+
 
 ---
 
@@ -45,7 +45,7 @@ O **Princípio da Substituição de Liskov** afirma que as **subclasses devem se
 Esse princípio garante que a hierarquia de herança esteja bem definida e que o comportamento das subclasses seja coerente com o comportamento das superclasses. Isso é fundamental para garantir que o código seja reutilizável e que o sistema funcione corretamente ao substituir uma classe por uma de sua hierarquia.
 
 O princípio diz que **subclasses devem ser substituíveis por suas classes base sem alterar o comportamento esperado**. Em outras palavras, se você tem uma classe `Animal` e uma subclasse `Cachorro`, você deve ser capaz de **usar um `Cachorro` onde um `Animal` é esperado**, e o comportamento do programa não deve ser alterado.
-![[Pasted image 20250307143418.png]]
+
 
 ---
 
@@ -54,7 +54,7 @@ O princípio diz que **subclasses devem ser substituíveis por suas classes base
 O **Princípio da Segregação de Interfaces** afirma que **uma classe não deve ser forçada a implementar interfaces que não usa**. Ao invés de criar interfaces grandes e genéricas, devemos criar interfaces mais específicas e coesas, adaptadas às necessidades de cada classe.
 
 Isso ajuda a evitar a situação em que uma classe é obrigada a implementar métodos que não são relevantes para seu funcionamento, promovendo um design mais limpo e coeso. Classes com interfaces pequenas e específicas têm menos dependências e são mais fáceis de modificar sem afetar outras partes do sistema.
-![[Pasted image 20250307143509.png]]
+
 
 ---
 
@@ -63,7 +63,7 @@ Isso ajuda a evitar a situação em que uma classe é obrigada a implementar mé
 O **Princípio da Inversão de Dependência** afirma que **as classes de alto nível não devem depender de classes de baixo nível**, mas ambas devem depender de abstrações (interfaces ou classes abstratas). Isso significa que, ao invés de uma classe de alto nível depender diretamente de uma implementação específica, ela deve depender de uma interface ou abstração que permita a troca de implementações sem afetar o comportamento do sistema.
 
 Este princípio é essencial para reduzir o acoplamento entre componentes e tornar o sistema mais flexível e fácil de testar. Quando as dependências são invertidas, o código torna-se mais desacoplado e as implementações podem ser facilmente substituídas sem a necessidade de grandes mudanças no sistema.
-![[Pasted image 20250307143534.png]]
+
 
 ---
 ## **Assuntos Correlacionados** 
