@@ -8,7 +8,7 @@ If you bring service-oriented architecture (SOA) up in a conversation, there’s
 
 ## Princípios do SOA
 
-1. **Desacoplamento**: Cada serviço deve ser independente, com interfaces bem definidas, de modo que mudanças em um serviço não afetem os outros. Isso facilita a manutenção e evolução dos sistemas.
+1. **Desacoplamento**: Each service must be independent, com interfaces bem definidas, de modo que mudanças em um serviço não afetem os outros. Isso facilita a manutenção e evolução dos sistemas.
    
 2. **Interoperabilidade**: Os serviços devem ser capazes de se comunicar entre si, independentemente da tecnologia ou linguagem de programação utilizada. O SOA promove o uso de padrões de comunicação abertos como REST, SOAP, etc.
 
