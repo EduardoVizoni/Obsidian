@@ -6,7 +6,7 @@ Microservices
 
 This architectural style coexists with other software design approaches at [[Software Architecture]] like:
 
-- **[[M.V.C]]**: Used _inside_ a microservice to organize code (like a [[Java]] [[Spring]] class).
+- **[[M.V.C]]**: Used _inside_ a microservice to organize code (like a [[Java]] [[Spring Boot]] class).
 		   
 - **[[S.O.A]]**: An older, similar idea—but microservices are **smaller and simpler**.
 	
