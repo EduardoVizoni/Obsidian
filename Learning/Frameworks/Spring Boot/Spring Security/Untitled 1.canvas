@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"54ab5cef64077ecb","type":"text","text":"User entered credentials","x":-200,"y":-40,"width":240,"height":60},
+		{"id":"b22062d4ae56c989","type":"text","text":"Authentication Filter","x":160,"y":-40,"width":220,"height":60},
+		{"id":"1ae968bfeade0d77","type":"text","text":"Authentication","x":180,"y":-180,"width":180,"height":50},
+		{"id":"b891f29671facf57","type":"text","text":"Security Context","x":180,"y":120,"width":180,"height":50},
+		{"id":"d806d5742993a7e2","type":"text","text":"Authentication Manager","x":500,"y":-40,"width":220,"height":60},
+		{"id":"9ed853dfd1e30056","type":"text","text":"Authentication Provider","x":860,"y":-40,"width":220,"height":60},
+		{"id":"2540c003a8742f30","type":"text","text":"User Details Service","x":810,"y":170,"width":160,"height":60},
+		{"id":"cd89def70643cb87","type":"text","text":"Password Encoder","x":970,"y":170,"width":160,"height":60}
+	],
+	"edges":[
+		{"id":"9d6bb319f12c528a","fromNode":"54ab5cef64077ecb","fromSide":"right","toNode":"b22062d4ae56c989","toSide":"left"},
+		{"id":"6ef8b475abc3289d","fromNode":"b22062d4ae56c989","fromSide":"top","toNode":"1ae968bfeade0d77","toSide":"bottom"},
+		{"id":"6f479e3a08de1dd7","fromNode":"b22062d4ae56c989","fromSide":"bottom","toNode":"b891f29671facf57","toSide":"top"},
+		{"id":"685baa858b43ee5e","fromNode":"b22062d4ae56c989","fromSide":"right","toNode":"d806d5742993a7e2","toSide":"left"},
+		{"id":"294ac55a871a312d","fromNode":"d806d5742993a7e2","fromSide":"right","toNode":"9ed853dfd1e30056","toSide":"left"},
+		{"id":"522cf249c04e785d","fromNode":"9ed853dfd1e30056","fromSide":"bottom","toNode":"2540c003a8742f30","toSide":"top"},
+		{"id":"3908939a1ad076d7","fromNode":"9ed853dfd1e30056","fromSide":"bottom","toNode":"cd89def70643cb87","toSide":"top"}
+	]
+}
