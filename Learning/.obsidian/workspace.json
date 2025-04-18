@@ -109,14 +109,270 @@
             "id": "a8045f8d9b342934",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Spring Boot/Spring WEB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring WEB"
+            }
+          },
+          {
+            "id": "96c91565d917dca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Spring Boot/Spring WEB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring WEB"
+            }
+          },
+          {
+            "id": "af71b25e3f1c3940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/Spring Boot/Spring WEB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring WEB"
+            }
+          },
+          {
+            "id": "1412cda1f70738c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "3116525c5d151817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "b2d285eef7b373f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "7c9ea45ad936840a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "2bda2d4f77332134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "1ca371319f2ffe5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Family Stores"
+            }
+          },
+          {
+            "id": "f90cef3a6a92378f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Document Stores/Document Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document Stores"
+            }
+          },
+          {
+            "id": "1f735917af9b9137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Graph Databases/Graph Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph Databases"
+            }
+          },
+          {
+            "id": "b1c7332813bb465b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Document Stores/Document Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document Stores"
+            }
+          },
+          {
+            "id": "06990bca55c4c5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Family Stores"
+            }
+          },
+          {
+            "id": "7bb1acea788b34b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Family Stores"
+            }
+          },
+          {
+            "id": "3e7d56b74566743d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Graph Databases/Graph Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph Databases"
+            }
+          },
+          {
+            "id": "a75739a224bd7d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Graph Databases/Graph Databases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph Databases"
+            }
+          },
+          {
+            "id": "054594c97d7ec9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Key-Value Stores/Key-Value Stores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key-Value Stores"
+            }
+          },
+          {
+            "id": "901687f4e46692d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Document Stores/MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          },
+          {
+            "id": "38026fa1e16fb51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/NoSQL/Types/Multi-Model/Multi-Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Model"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -260,45 +516,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8045f8d9b342934",
+  "active": "38026fa1e16fb51e",
   "lastOpenFiles": [
-    "Frameworks/Spring Boot/Spring WEB.md",
-    "CRUD.md",
-    "Frameworks/Spring Boot/Spring Data JPA.md",
-    "H2 Database.md",
-    "MySQL.md",
+    "Database/NoSQL/Types/Graph Databases/ArangoDB.md",
+    "Database/NoSQL/Types/Multi-Model/Multi-Model.md",
+    "Database/NoSQL/Types/Multi-Model",
+    "Database/NoSQL/Types/Graph Databases/Neo4j.md",
+    "Database/NoSQL/Types/Column-Family Stores/HBase.md",
+    "Database/NoSQL/Types/Column-Family Stores/Apache Cassandra.md",
+    "Database/NoSQL/Types/Document Stores/MongoDB.md",
+    "Database/NoSQL/Types/Document Stores/CouchDB.md",
+    "Database/ACID.md",
+    "Database/NoSQL/Types/Key-Value Stores/DynamoDB.md",
+    "Database/NoSQL/Types/Key-Value Stores/Redis.md",
+    "Database/NoSQL/Types/Key-Value Stores/Key-Value Stores.md",
+    "Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
+    "Database/NoSQL/Types/Document Stores/Document Stores.md",
+    "Database/NoSQL/Types/Graph Databases/Graph Databases.md",
+    "Database/NoSQL/Types/Key-Value Stores",
+    "Database/NoSQL/Types/Graph Databases",
+    "Database/NoSQL/Types/Document Stores",
+    "Database/NoSQL/Types/Column-Family Stores",
+    "Getters.md",
+    "Database/NoSQL/NoSQL.md",
+    "Database/NoSQL/Types",
+    "Database/Database Stores",
+    "Database/SQL/SQL.md",
+    "Database/Hybrid Database",
     "Frameworks/Spring Boot/Spring Boot.md",
-    "Database.md",
-    "PostgreSQL.md",
-    "JPA.md",
+    "Database/SQL",
+    "Database/NoSQL",
+    "Frameworks/Spring Boot/Spring H2.md",
+    "Constructors.md",
     "Frameworks/Spring Boot/Lombok.md",
+    "Setters.md",
+    "Frameworks/Spring Boot/Spring Data JPA.md",
+    "Frameworks/Spring Boot/Spring WEB.md",
     "Frameworks/Spring Boot/Spring Security/Spring Security Flow.canvas",
-    "Dependencies.md",
-    "Frameworks/Spring Boot/Dependencies",
+    "Hibernate.md",
     "Untitled.canvas",
-    "Frameworks/Spring Boot/Spring Security/Spring Security.md",
-    "Frameworks/Spring Boot/Spring Security",
-    "Frameworks/Next.Js/Next.Js.md",
-    "Frameworks/Angular/Angular.md",
-    "Software Architecture/Software Architecture.md",
-    "Untitled.md",
-    "2025-04-16.md",
-    "Software Architecture/S.O.L.I.D Principle.md",
-    "Software Architecture/S.O.A.md",
-    "Software Architecture/O.O.P.md",
-    "Software Architecture/Microservices.md",
-    "Software Architecture/M.V.C.md",
-    "Security/Authentication Methods/JSON WEB Token.md",
-    "Languages/Java.md",
-    "Frameworks/React",
-    "Frameworks/Next.Js",
-    "Frameworks/Angular",
-    "Security/Authentication Methods",
-    "Security",
-    "Frameworks/Spring Boot",
-    "Software Architecture",
-    "Operating Systems/Windows.md",
-    "Operating Systems/Mac.md",
-    "Operating Systems"
+    "Software Architecture/M.V.C.md"
   ]
 }
