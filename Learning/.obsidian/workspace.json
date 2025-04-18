@@ -363,16 +363,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/NoSQL/Types/Multi-Model/Multi-Model.md",
+                "file": "Database/SQL/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-Model"
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "d0132135b2f38d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/SQL/Types/Time-Series SQL Databases/TimescaleDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TimescaleDB"
+            }
+          },
+          {
+            "id": "fd9fb6608334957d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -516,45 +540,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38026fa1e16fb51e",
+  "active": "fd9fb6608334957d",
   "lastOpenFiles": [
-    "Database/NoSQL/Types/Graph Databases/ArangoDB.md",
+    "Database/SQL/Types/Column-Oriented Databases/Amazon Redshift.md",
+    "Database/SQL/SQL.md",
+    "Frameworks/Spring Boot/Spring H2.md",
+    "Database/SQL/Types/Embedded SQL Databases/SQLite.md",
+    "Database/SQL/Types/Time-Series SQL Databases/InfluxDB.md",
+    "Database/SQL/Types/Time-Series SQL Databases/TimescaleDB.md",
+    "DevOps.md",
+    "Database/SQL/Types/NewSQL Databases/YugabyteDB.md",
+    "Database/SQL/Types/NewSQL Databases/CockroachDB.md",
+    "Database/SQL/Types/Column-Oriented Databases/Snowflake.md",
+    "Database/SQL/Types/Column-Oriented Databases/Column-Oriented Databases.md",
+    "Database/SQL/Types/Row-Oriented Databases/MySQL.md",
+    "Database/SQL/Types/Row-Oriented Databases/PostgreSQL.md",
+    "Database/NoSQL/Types/Key-Value Stores/Redis.md",
+    "Database/SQL/Types/Row-Oriented Databases/Row-Oriented Databases.md",
+    "Database/NoSQL/Types/Column-Family Stores/Apache Cassandra.md",
+    "Database/NoSQL/NoSQL.md",
+    "Database/SQL/Types/Embedded SQL Databases/Embedded SQL Databases.md",
+    "Database/SQL/Types/Time-Series SQL Databases/Time-Series SQL Databases.md",
+    "Database/SQL/Types/Embedded SQL Databases",
+    "Database/SQL/Types/NewSQL Databases/NewSQL Databases.md",
+    "Database/SQL/Types/Time-Series SQL Databases",
+    "Database/SQL/Types/NewSQL Databases/Untitled",
+    "Database/SQL/Types/NewSQL Databases",
+    "CRUD.md",
+    "Database/SQL/Types/Column-Oriented Databases",
+    "Database/SQL/Types/Row-Oriented Databases/Untitled.md",
+    "Database/SQL/Types/Row-Oriented Databases",
+    "Database/SQL/Types",
     "Database/NoSQL/Types/Multi-Model/Multi-Model.md",
+    "Database/NoSQL/Types/Graph Databases/ArangoDB.md",
     "Database/NoSQL/Types/Multi-Model",
     "Database/NoSQL/Types/Graph Databases/Neo4j.md",
     "Database/NoSQL/Types/Column-Family Stores/HBase.md",
-    "Database/NoSQL/Types/Column-Family Stores/Apache Cassandra.md",
-    "Database/NoSQL/Types/Document Stores/MongoDB.md",
-    "Database/NoSQL/Types/Document Stores/CouchDB.md",
-    "Database/ACID.md",
-    "Database/NoSQL/Types/Key-Value Stores/DynamoDB.md",
-    "Database/NoSQL/Types/Key-Value Stores/Redis.md",
-    "Database/NoSQL/Types/Key-Value Stores/Key-Value Stores.md",
-    "Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
-    "Database/NoSQL/Types/Document Stores/Document Stores.md",
-    "Database/NoSQL/Types/Graph Databases/Graph Databases.md",
     "Database/NoSQL/Types/Key-Value Stores",
     "Database/NoSQL/Types/Graph Databases",
-    "Database/NoSQL/Types/Document Stores",
-    "Database/NoSQL/Types/Column-Family Stores",
-    "Getters.md",
-    "Database/NoSQL/NoSQL.md",
-    "Database/NoSQL/Types",
-    "Database/Database Stores",
-    "Database/SQL/SQL.md",
-    "Database/Hybrid Database",
-    "Frameworks/Spring Boot/Spring Boot.md",
-    "Database/SQL",
-    "Database/NoSQL",
-    "Frameworks/Spring Boot/Spring H2.md",
-    "Constructors.md",
-    "Frameworks/Spring Boot/Lombok.md",
-    "Setters.md",
-    "Frameworks/Spring Boot/Spring Data JPA.md",
-    "Frameworks/Spring Boot/Spring WEB.md",
     "Frameworks/Spring Boot/Spring Security/Spring Security Flow.canvas",
-    "Hibernate.md",
-    "Untitled.canvas",
-    "Software Architecture/M.V.C.md"
+    "Untitled.canvas"
   ]
 }
