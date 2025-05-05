@@ -8,7 +8,7 @@ This architectural style coexists with other software design approaches at [[Sof
 
 - **[[M.V.C]]**: Used _inside_ a microservice to organize code (like a [[Java]] [[Spring Boot]] class).
 		   
-- **[[S.O.A]]**: An older, similar idea—but microservices are **smaller and simpler**.
+- **[[S.O.A]]**: An older, similar idea, but microservices are **smaller and simpler**.
 	
 - **[[S.O.L.I.D Principle]]**: Rules to keep code clean (e.g., "one job per service").
 	

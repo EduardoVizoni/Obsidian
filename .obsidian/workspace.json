@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Frameworks/Spring Boot/Lombok.md",
+                "file": "Learning/Software Architecture/Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lombok"
+              "title": "Microservices"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Frameworks/Spring Boot/Lombok.md",
+                "file": "Learning/Software Architecture/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lombok"
+              "title": "Backlinks for Microservices"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Learning/Software Architecture/SOLID/Princípios SOLID.md",
+                "file": "Learning/Software Architecture/Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Princípios SOLID"
+              "title": "Outgoing links from Microservices"
             }
           },
           {
@@ -142,20 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Learning/Software Architecture/SOLID/Princípios SOLID.md",
+                "file": "Learning/Software Architecture/Microservices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Princípios SOLID"
+              "title": "Outline of Microservices"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +171,24 @@
   },
   "active": "8adf21a1eceb083c",
   "lastOpenFiles": [
+    "Learning/Software Architecture/M.V.C.md",
     "Learning/Software Architecture/Microservices.md",
+    "Learning/Security/Authentication Methods/JSON WEB Token.md",
+    "Learning/Operating Systems/Linux.md",
+    "Learning/Operating Systems/Mac.md",
+    "Learning/Operating Systems/Windows.md",
+    "Learning/Languages 1/France.md",
+    "Learning/Languages 1/English.md",
+    "Learning/Languages/TypeScript.md",
+    "Learning/Languages/Java.md",
     "Learning/Frameworks/Spring Boot/Spring Boot.md",
-    "Learning/Frameworks/Spring Boot/Spring Security/Spring Security.md",
     "Learning/Frameworks/Spring Boot/Spring Security/Spring Security Flow.canvas",
+    "Learning/Frameworks/Spring Boot/Spring Security/Spring Security.md",
+    "Learning/Frameworks/Next.Js/Next.Js.md",
+    "Learning/Software Architecture/Software Architecture.md",
+    "Learning/Software Architecture/S.O.A.md",
+    "Learning/Software Architecture/S.O.L.I.D Principle.md",
+    "Learning/Frameworks/Spring Boot/Lombok.md",
     "Learning/Database/SQL/Types/NewSQL Databases/CockroachDB.md",
     "Learning/Frameworks/Spring Boot/Spring Data JPA.md",
     "Learning/Frameworks/Spring Boot/Spring WEB.md",
@@ -180,22 +196,8 @@
     "JPA.md",
     "NewSQL.md",
     "Learning/Database/SQL/Types/Time-Series SQL Databases/TimescaleDB.md",
-    "Learning/Frameworks/Spring Boot/Lombok.md",
     "Learning/Constructors.md",
     "Learning/Getters.md",
-    "Learning/Hibernate.md",
-    "Learning/JSON.md",
-    "Learning/Setters.md",
-    "Learning/Database/SQL/Types/NewSQL Databases/NewSQL Databases.md",
-    "Learning/Database/SQL/Types/Time-Series SQL Databases/Time-Series SQL Databases.md",
-    "Learning/Database/SQL/Types/Row-Oriented Databases/Row-Oriented Databases.md",
-    "Learning/Database/SQL/Types/Row-Oriented Databases/PostgreSQL.md",
-    "Learning/Database/SQL/Types/Embedded SQL Databases/Embedded SQL Databases.md",
-    "Learning/Database/SQL/Types/Column-Oriented Databases/Column-Oriented Databases.md",
-    "Learning/Database/NoSQL/Types/Key-Value Stores/Key-Value Stores.md",
-    "Learning/Database/NoSQL/Types/Graph Databases/Graph Databases.md",
-    "Learning/Database/NoSQL/Types/Document Stores/Document Stores.md",
-    "Learning/Database/NoSQL/Types/Column-Family Stores/Column-Family Stores.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20250307143414.png",
